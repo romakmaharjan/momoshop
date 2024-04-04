@@ -17,8 +17,8 @@ body {
 }
 
 .small-text {
-  color: #5b5b5b;
-  font-size: 14px;
+  color: #ffffff;
+  font-size: 25px;
   font-weight: bold;
   padding: 8px 16px;
   border-radius: 50px;
@@ -47,10 +47,10 @@ a:hover {
 }
 
 p {
-  font-size: 18px;
-  font-weight: 300;
+  font-size: 25px;
+  font-weight: bold;
   line-height: 1.5;
-  color: #5b5b5b;
+  color: #ffffff;
 }
 
 h1,
@@ -67,6 +67,9 @@ h1 {
   color: #212121;
   font-size: 2.8em;
   margin: 24px 0;
+}
+.mr-2 {
+  color: #fffdfd;
 }
 
 h2 {
@@ -385,6 +388,12 @@ strong {
   background-size: cover;
   background-position: center;
 }
+.project {
+  background-color: #cd6815;
+}
+.footer {
+  background-color: #474559;
+}
 
 .owl-carousel .owl-nav span {
   display: none;
@@ -501,8 +510,9 @@ strong {
 
 .reviewh2 {
   font-size: 2rem;
-  margin-bottom: 1rem;
+  margin-bottom: 5rem;
   text-align: center;
+  /* margin: 5px; */
 }
 
 .description {
