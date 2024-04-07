@@ -64,7 +64,7 @@ h6 {
 }
 
 h1 {
-  color: #212121;
+  color: #ffffff;
   font-size: 2.8em;
   margin: 24px 0;
 }
@@ -73,13 +73,13 @@ h1 {
 }
 
 h2 {
-  color: #353535;
+  color: #fcfbfb;
   font-size: 2.4em;
   font-weight: bold;
 }
 
 h3 {
-  color: #484848;
+  color: #fffafa;
 }
 
 h3,
@@ -269,9 +269,11 @@ strong {
 }
 
 .copyright-text {
-  font-size: 16px;
-  font-weight: normal;
+  font-size: 22px;
+  /* font-weight: normal; */
   display: block;
+  font-weight: bold;
+}
 }
 
 .color-mode {
@@ -389,10 +391,18 @@ strong {
   background-position: center;
 }
 .project {
-  background-color: #cd6815;
+  /* background-color: #cd6815; */
+  background-image: url("https://www.modularclayproducts.co.uk/wp-content/uploads/2020/07/red-brick-wall.jpg") !important;
 }
+.resume {
+  background-image: url("https://www.modularclayproducts.co.uk/wp-content/uploads/2020/07/red-brick-wall.jpg") !important;
+}
+.contact {
+  background-image: url("https://www.modularclayproducts.co.uk/wp-content/uploads/2020/07/red-brick-wall.jpg") !important;
+}
+
 .footer {
-  background-color: #474559;
+  background-image: url("https://www.modularclayproducts.co.uk/wp-content/uploads/2020/07/red-brick-wall.jpg") !important;
 }
 
 .owl-carousel .owl-nav span {
@@ -413,10 +423,12 @@ strong {
 .owl-carousel .owl-nav .owl-prev:before {
   content: "\e833";
   left: -45px;
+  color: #fff;
 }
 .owl-carousel .owl-nav .owl-next:before {
   content: "\e836";
   right: -45px;
+  color: #fff;
 }
 
 .owl-theme .owl-nav [class*="owl-"] {
@@ -449,7 +461,7 @@ strong {
   position: relative;
 }
 .contact-form .form-control {
-  background: transparent;
+  background: #fff;
   border-radius: 2px;
   outline: none;
   box-shadow: none;
@@ -505,7 +517,8 @@ strong {
   align-items: center;
   flex-direction: column;
   justify-content: center;
-  background-color: #f3c407e8;
+  /* background-color: #f3c407e8; */
+  background-image: url("https://www.modularclayproducts.co.uk/wp-content/uploads/2020/07/red-brick-wall.jpg") !important;
 }
 
 .reviewh2 {

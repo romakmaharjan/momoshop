@@ -52,6 +52,7 @@
   width: 50%;
   height: 300px;
   margin: auto;
+  border-radius: 50%;
 }
 .owl-carousel .owl-dots.disabled,
 .owl-carousel .owl-nav.disabled {
